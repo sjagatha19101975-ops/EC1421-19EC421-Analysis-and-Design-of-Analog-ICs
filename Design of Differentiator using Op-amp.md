@@ -19,8 +19,10 @@ Here the negative sign indicates that the output voltage is 180 0 out of phase w
 The differentiator is most commonly used in wave shaping circuits to detect high frequency components in an input signal and also as a rate–of–change detector in FM modulators.
 
 ## CIRCUIT DIAGRAM:
+![WhatsApp Image 2025-11-25 at 12 30 29_f1fb551a](https://github.com/user-attachments/assets/9d750b3c-8bf5-42e8-a705-22f4def85378)
 
 ## MODEL GRAPH:
+![WhatsApp Image 2025-11-25 at 12 32 12_d3586316](https://github.com/user-attachments/assets/df35ebce-def3-4f01-a249-d6c009668eeb)
 
 ## PROCEDURE:
 ### Differentiator:
@@ -33,10 +35,12 @@ The differentiator is most commonly used in wave shaping circuits to detect high
 <img width="837" height="443" alt="image" src="https://github.com/user-attachments/assets/fee44ef4-8ae5-4b7a-938e-927c4492992e" />
 
 ## TABULATION:
+![WhatsApp Image 2025-11-25 at 12 31 46_181ac89b](https://github.com/user-attachments/assets/8c724911-4751-4b83-9240-5cdb8da3be83)
 
-## CALCULATIONS:
+## 
 
 ## GRAPH:
+![WhatsApp Image 2025-11-25 at 12 34 12_d686ecd3](https://github.com/user-attachments/assets/a9026d13-84ed-4966-bbb1-e1ff9be41469)
 
 ## RESULT:
 Thus the Differentiator using op-amp are designed and their performance was successfully tested using op-amp IC 741.
